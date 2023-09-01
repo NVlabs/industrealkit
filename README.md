@@ -114,8 +114,8 @@ If you use any of the IndustRealKit assembly assets in your work, please conside
 ### Related repos
 - Isaac Gym (simulate robots): [paper](https://arxiv.org/abs/2108.10470) | [website](https://developer.nvidia.com/isaac-gym) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - Factory (simulate contact-rich interactions in Isaac Gym): [paper](https://arxiv.org/abs/2205.03532) | [website](https://sites.google.com/nvidia.com/factory) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/tree/main/isaacgymenvs/tasks/factory)
-- IndustRealSim (reproduce RL policy training algorithms used in IndustReal): coming August 2023
-- IndustRealLib (reproduce RL policy deployment code used in IndustReal): coming August 2023
+- IndustRealSim (reproduce RL policy training algorithms used in IndustReal): coming September 2023
+- IndustRealLib (reproduce RL policy deployment code used in IndustReal): coming September 2023
 
 ### Support
 Please create a GitHub issue.
