@@ -2,6 +2,9 @@
 
 This repo contains the assets used in [Tang and Lin, et al., "IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality," Robotics: Science and Systems (RSS), 2023](https://arxiv.org/abs/2305.17110).
 
+<img src="industrealkit.jpg" alt="IndustRealKit" height="300"/>
+<br/><br/>
+
 Specifically, this repo contains the following:
 - 3D-printable STL files for all 3D-printed parts
 - OBJ files for all 3D-printed parts (if you would like to import the assets into your simulator)
