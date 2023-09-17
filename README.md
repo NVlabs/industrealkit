@@ -22,7 +22,7 @@ Please read these notes prior to printing or using the assets.
 ### STL files
 The STL files were exported directly from Onshape. We 3D printed these files on an Ultimaker 3 with third-party PLA filament at 0.15 mm layer resolution.
 
-In general, 3D printers do not print features to the exact dimensions specified in STL files (e.g., due to overextrusion), and such deviations may vary from printer to printer. Thus, after printing the parts, we measured the diametral clearance between mating parts for the insertion task (i.e., between pegs and holes, and between gears and gearshafts) using calipers, and we observed a 0.5-0.6 mm clearance between the parts. Higher or lower clearances may have a significant impact on policy performance in the real world; if you would like to closely reproduce the exact conditions used in the IndustReal paper, you should ensure that your printed parts also have clearances in this range. To do so, you may have to modify the CAD documents to increase or decrease hole or shaft diameters, such that your printer ultimately achieves the desired clearance.
+In general, 3D printers do not print features to the exact dimensions specified in STL files (e.g., due to overextrusion), and such deviations may vary from printer to printer. Thus, after printing the parts, we measured the diametral clearance between mating parts for the insertion task (i.e., between pegs and holes, and between gears and gearshafts) using calipers, and we observed a 0.5-0.6 mm clearance between the parts. Higher or lower clearances may have a significant impact on policy performance in the real world; **if you would like to closely reproduce the exact conditions used in the IndustReal paper, you should ensure that your printed parts also have clearances in this range.** To do so, you may have to modify the CAD documents to increase or decrease hole or shaft diameters, such that your printer ultimately achieves the desired clearance.
               
 ### OBJ files
 The OBJ files were exported directly from Onshape for convenience. These are not the exact OBJ files used in the IndustReal policy training code, as those files were post-processed for use with our simulator. To access a subset of those files, please see [IndustRealSim](#related-repos).
@@ -110,6 +110,8 @@ If you use any of the IndustRealKit assembly assets in your work, please conside
     year = {2023}
 }
 ```
+
+If you use the Franka fingers or camera mount in your work, please acknowledge Karl Van Wyk or Kenneth MacLean, respectively.
 
 ### Related repos
 - Isaac Gym (simulate robots): [paper](https://arxiv.org/abs/2108.10470) | [website](https://developer.nvidia.com/isaac-gym) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
