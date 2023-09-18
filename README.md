@@ -87,13 +87,18 @@ These parts are based closely on the gear assembly in [NIST Task Board 1](https:
 
 ### Franka fingers
 - Finger mold: [STL](finger_mold/stl) | [OBJ](finger_mold/obj)
-    - Note: These parts were originally designed by [Karl Van Wyk](https://www.linkedin.com/in/karl-van-wyk-445387105)
+    - Note: These parts were originally designed by [Karl Van Wyk](https://www.linkedin.com/in/karl-van-wyk-445387105) 
 - Silicone rubber: [Smooth-On Dragon Skin 30 resin](https://www.smooth-on.com/products/dragon-skin-30/)
 
 ### Camera and mount
 - Camera: [Intel RealSense D435](https://www.intelrealsense.com/depth-camera-d435/)
 - Camera mount: [STL](camera_mount/stl) | [OBJ](camera_mount/obj)
     - Note: This part was originally designed by [Kenneth MacLean](https://www.linkedin.com/in/kennethmaclean)
+
+### Lighting
+- Light: [GTX Studio 85W LED](https://gtxproductsgroup.com/index.php?main_page=product_info&products_id=1373)
+- Softbox: [Zuma octagonal CFL softbox](https://gtxproductsgroup.com/index.php?main_page=product_info&cPath=98_45&products_id=13)
+- Light stand: [Zuma 3-section light stand](https://gtxproductsgroup.com/index.php?main_page=product_info&cPath=11&products_id=11)
 
 ---
 
