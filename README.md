@@ -43,6 +43,7 @@ There are typically multiple tabs in each Onshape CAD document (i.e., one for ea
 - [Optical breadboard](#optical-breadboard)
 - [Franka fingers](#franka-fingers)
 - [Camera and mount](#camera-and-mount)
+- [Lighting](#lighting)
 
 ### Peg-and-hole assemblies
 The pegs are initially located in the peg trays. The robot should remove the pegs from the peg trays and insert the pegs into the holes.
