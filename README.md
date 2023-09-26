@@ -79,7 +79,7 @@ These parts are based closely on the gear assembly in [NIST Task Board 1](https:
 - Small gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/b98a41f9fee3c8fcc4b823e0?renderMode=0&uiState=64c0706b82880e0f200332be)
 - Medium gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/c8478593b2186b7c2c9764c6?renderMode=0&uiState=64c0706082880e0f200332b0)
 - Large gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/e5883046fcbb15117ae51c2c?renderMode=0&uiState=64c0705282880e0f2003328d)
-- Gear base: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/431be5d596cc1c7f5bbaf476?renderMode=0&uiState=64c055f3da9e4b6ad4037938)
+- Gear base: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/docume   nts/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/431be5d596cc1c7f5bbaf476?renderMode=0&uiState=64c055f3da9e4b6ad4037938)
 
 ### Optical breadboard
 - Breadboard: [Thorlabs MB3045/M aluminum breadboard](https://www.thorlabs.com/thorproduct.cfm?partnumber=MB3045/M)
@@ -122,8 +122,8 @@ If you use the Franka fingers or camera mount in your work, please acknowledge K
 ### Related repos
 - Isaac Gym (simulate robots): [paper](https://arxiv.org/abs/2108.10470) | [website](https://developer.nvidia.com/isaac-gym) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - Factory (simulate contact-rich interactions in Isaac Gym): [paper](https://arxiv.org/abs/2205.03532) | [website](https://sites.google.com/nvidia.com/factory) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/tree/main/isaacgymenvs/tasks/factory)
-- IndustRealSim (reproduce RL policy training algorithms used in IndustReal): coming September 2023
-- IndustRealLib (reproduce RL policy deployment code used in IndustReal): coming September 2023
+- IndustRealSim (reproduce RL policy training algorithms used in IndustReal): [paper](https://arxiv.org/abs/2305.17110) | [project website](https://sites.google.com/nvidia.com/industreal) | [code](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/tree/main/isaacgymenvs/tasks/industreal) | [shorter docs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/blob/main/docs/rl_examples.md#industreal-transferring-contact-rich-simulation-tasks-from-simulation-to-reality) | [longer docs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/blob/main/docs/industreal.md)
+- IndustRealLib (reproduce RL policy deployment code used in IndustReal): coming October 2023
 
 ### Support
 Please create a GitHub issue.
