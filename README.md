@@ -20,7 +20,7 @@ The files, documents, and information are organized by assembly type.
 Please read these notes prior to printing or using the assets.
 
 ### STL files
-The STL files were exported directly from Onshape. We 3D printed these files on an Ultimaker 3 with third-party PLA filament at 0.15 mm layer resolution.
+The STL files were exported directly from Onshape. We 3D printed these files on an Ultimaker 3 with [MatterHackers PLA filament](https://www.matterhackers.com/store/c/mh-build-series/mh-build-series-pla) at 0.15 mm layer resolution.
 
 In general, 3D printers do not print features to the exact dimensions specified in STL files (e.g., due to overextrusion), and such deviations may vary from printer to printer. Thus, after printing the parts, we measured the diametral clearance between mating parts for the insertion task (i.e., between pegs and holes, and between gears and gearshafts) using calipers, and we observed a 0.5-0.6 mm clearance between the parts. Higher or lower clearances may have a significant impact on policy performance in the real world; **if you would like to closely reproduce the exact conditions used in the IndustReal paper, you should ensure that your printed parts also have clearances in this range.** To do so, you may have to modify the CAD documents to increase or decrease hole or shaft diameters, such that your printer ultimately achieves the desired clearance.
               
@@ -79,7 +79,7 @@ These parts are based closely on the gear assembly in [NIST Task Board 1](https:
 - Small gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/b98a41f9fee3c8fcc4b823e0?renderMode=0&uiState=64c0706b82880e0f200332be)
 - Medium gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/c8478593b2186b7c2c9764c6?renderMode=0&uiState=64c0706082880e0f200332b0)
 - Large gear: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/e5883046fcbb15117ae51c2c?renderMode=0&uiState=64c0705282880e0f2003328d)
-- Gear base: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/docume   nts/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/431be5d596cc1c7f5bbaf476?renderMode=0&uiState=64c055f3da9e4b6ad4037938)
+- Gear base: [STL](gears/stl) | [OBJ](gears/obj) | [CAD](https://cad.onshape.com/documents/27b6adf9ac6d2fd277d36e9d/w/5eeb987aaf4ae2b80209542f/e/431be5d596cc1c7f5bbaf476?renderMode=0&uiState=64c055f3da9e4b6ad4037938)
 
 ### Optical breadboard
 - Breadboard: [Thorlabs MB3045/M aluminum breadboard](https://www.thorlabs.com/thorproduct.cfm?partnumber=MB3045/M)
