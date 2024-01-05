@@ -123,7 +123,7 @@ If you use the Franka fingers or camera mount in your work, please acknowledge K
 - Isaac Gym (simulate robots): [paper](https://arxiv.org/abs/2108.10470) | [website](https://developer.nvidia.com/isaac-gym) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
 - Factory (simulate contact-rich interactions in Isaac Gym): [paper](https://arxiv.org/abs/2205.03532) | [website](https://sites.google.com/nvidia.com/factory) | [environments repo](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/tree/main/isaacgymenvs/tasks/factory)
 - IndustRealSim (reproduce RL policy training algorithms used in IndustReal): [paper](https://arxiv.org/abs/2305.17110) | [project website](https://sites.google.com/nvidia.com/industreal) | [code](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/tree/main/isaacgymenvs/tasks/industreal) | [shorter docs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/blob/main/docs/rl_examples.md#industreal-transferring-contact-rich-simulation-tasks-from-simulation-to-reality) | [longer docs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/blob/main/docs/industreal.md)
-- IndustRealLib (reproduce RL policy deployment code used in IndustReal): coming October 2023
+- IndustRealLib (reproduce RL policy deployment code used in IndustReal): [paper](https://arxiv.org/abs/2305.17110) | [project website](https://sites.google.com/nvidia.com/industreal) | [code](https://github.com/NVLabs/industreallib)
 
 ### Support
 Please create a GitHub issue.
